@@ -4,7 +4,7 @@
  
 ## About
 
-Top-down shooter game prototype made in Unity for Game Development degree at JMC around 2015.
+Top-down shooter game prototype made with Unity for a Game Development degree at JMC around 2015.
 
 ## Notable Features
 
